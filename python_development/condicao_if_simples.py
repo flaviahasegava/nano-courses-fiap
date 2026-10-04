@@ -1,4 +1,4 @@
-# Bloco if - Avalia uma condição e só realiza caso a condição seja verdadeira
+# Bloco if simples - Avalia uma condição e só realiza caso a condição seja verdadeira
 
 # Exercícios
 '''
@@ -16,6 +16,5 @@ idade = int(input("Digite sua idade: "))
 if idade >= 18:
     print(f"{rm_aluno}, seu cadastro foi confirmado com sucesso!")
 
-# Exibe ao usuário que não pode se cadastrar por ter menos de 18
-else:
-    print("Não é possível realizar o seu cadastro, você ainda é menor de 18 anos.")
+# Exibe ao usuário que não pode se cadastrar por ter menos de 18 anos
+print("Não é possível realizar o seu cadastro, você ainda é menor de 18 anos.")
