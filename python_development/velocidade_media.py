@@ -1,3 +1,6 @@
+import os
+os.system("cls")
+
 # Pedir a distância da viagem
 distancia = float(input("Por favor, digite a distância percorrida: "))
 
