@@ -113,13 +113,13 @@ else:
 
 # Verifica qual console foi mais votado e se houve empate
 if playstation > xbox and playstation > nintendo:
-  print("O console escolhido foi: PLAYSTATION!\n")
+  print("O console escolhido foi: PLAYSTATION!")
 
 elif xbox > playstation and xbox > nintendo:
-  print("O console escolhido foi: XBOX!\n")
+  print("O console escolhido foi: XBOX!")
 
 elif nintendo > playstation and nintendo > xbox:
-  print("O console escolhido foi: NINTENDO!\n")
+  print("O console escolhido foi: NINTENDO!")
 
 else:
   print("Houve empate, favor entrar em contato com a direção.")
