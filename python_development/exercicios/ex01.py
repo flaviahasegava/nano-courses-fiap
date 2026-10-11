@@ -1,6 +1,7 @@
 import os
 os.system("cls")
 
+# Exercício 01
 '''
   Verificar se os batimentos cardíacos por minuto se encontram na faixa adequada.
 
