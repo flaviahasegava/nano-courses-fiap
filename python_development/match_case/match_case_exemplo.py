@@ -1,6 +1,10 @@
 import os
 os.system("cls")
 
+# MATCH CASE 
+# Usado para avaliar valores possíveis para uma variável ou um objeto (intervalo de valores bem definidos)
+# Exemplo: dias da semana, números de combos, finais das placas de carros, etc.
+
 '''
   Uma lanchonete trabalha com diversos combos de lanches, conforme a tabela abaixo:
 
@@ -10,10 +14,6 @@ os.system("cls")
 
   Crie um programa que receba o número de um combo e exiba o nome do lanche e o preço correspondente.
 '''
-
-# MATCH CASE 
-# Usado para avaliar valores possíveis para uma variável ou um objeto (intervalo de valores bem definidos)
-# Exemplo: dias da semana, números de combos, finais das placas de carros, etc.
 
 # Exibe mensagem de boas-vindas e pede o número do combo
 print("Bem-vindo(a)!")
