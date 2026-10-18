@@ -31,7 +31,8 @@ print("Bem-vindo(a) às promoções de pacotes da nossa agência!\n")
 # Pede ao usuário o valor bruto, categoria e quantidade de passageiros
 valor_bruto = float(input("Por favor, informe o valor da viagem: R$ "))
 # upper() -> Muda o valor da variável para letras maiúsculas
-categoria = input("Qual a categoria escolhida? (Econômica, Executiva ou Primeira classe) ").upper()
+# strip() -> Remove os espaços em branco da palavra
+categoria = input("Qual a categoria escolhida? (Econômica, Executiva ou Primeira classe) ").upper().strip()
 qtd_passageiros = int(input("Qual a quantidade de passageiros? "))
 
 # Retira o desconto caso seja apenas 1 passageiro
