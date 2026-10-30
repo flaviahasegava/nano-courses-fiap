@@ -1,3 +1,5 @@
+# FUNÇÕES CRIAÇÃO
+
 # "def" - Indica a criação de uma função
 # Após o "def" é o "nome da função"
 def velocidade_media():
@@ -8,7 +10,7 @@ def velocidade_media():
 
   vm = distancia / tempo
 
-  print(f"A velocidade média foi de {vm}")
+  print(f"A velocidade média foi de {vm:.0f}km/h")
 
 # Chama a função
 velocidade_media()
