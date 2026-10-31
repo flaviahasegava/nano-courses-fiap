@@ -1,10 +1,12 @@
+# FUNÇÕES (RETORNO)
+
 # A função recebe dados através de parâmetros
 def velocidade_media(distancia, tempo):
   vm = distancia / tempo
 
   # Retorna valores
   return vm # Variável que vai ser retornada "vm"
-  # "return" é a instrução de uma função, encerra uma função
+  # "return" -> é a instrução de uma função, encerra uma função
   # Quando não possui uma instrução "return" a linguagem devolve um valor nulo padrão (None)
 
 # Ao usar "return vm" é preciso dar uma finalidade para essa instrução (exibir o resultado)
