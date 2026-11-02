@@ -1,5 +1,4 @@
 # FUNÇÃO COM PARÂMETRO
-
 # Antes da função começar a ser executada ela vai precisar conhecer a dist&ancia e o tempo
 def velocidade_media(distancia, tempo):
   vm = distancia / tempo

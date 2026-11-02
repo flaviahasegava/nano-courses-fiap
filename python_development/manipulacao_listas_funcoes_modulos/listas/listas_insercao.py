@@ -1,5 +1,4 @@
 # LISTAS (INSERÇÃO DE DADOS)
-
 jedi = ["Yoda", "Luke", "Obi-Wan", "Anakin"]
 
 print(f"A lista original contém: \n {jedi}")

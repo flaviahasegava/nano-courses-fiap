@@ -1,5 +1,4 @@
 # LISTAS (CRIAÇÃO E ITERAÇÃO)
-
 # Geralmente é criado uma lista vazia quando o usuário precisa inserir os dados ao longo do funcionamento do programa ou ao extrair os dados de algum outro lugar (como um banco de dados, um arquivo de texto ou algo do tipo)
 
 # CRIAÇÃO DE UMA LISTA VAZIA

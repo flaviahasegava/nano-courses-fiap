@@ -1,5 +1,4 @@
 # LISTAS (RECURSOS)
-
 # VALORES FORA DE ORDEM
 valores = [1, 7, 7, 19, 3, 2, 11, 15, 6, 1, 5, 3.5]
 
@@ -14,7 +13,7 @@ print(f"A contagem de números 1 foi de {contagem}")
 valores.reverse()
 print(f"A lista invertida ficou assim: {valores}") # Coloca o nome da lista
 
-# ORDENANDO A LISTA
+# ORDENANDO A LISTA (ORDEM CRESCENTE)
 valores.sort()
 print(f"A lista em ordem crescente ficou assim: {valores}")
 

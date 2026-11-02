@@ -1,4 +1,6 @@
-# Crie um programa onde o professor digite notas de uma quantidade indeterminada de alunos. Quando ele terminar, exibir a média aritmética.
+''' 
+Crie um programa onde o professor digite notas de uma quantidade indeterminada de alunos. Quando ele terminar, exibir a média aritmética.
+'''
 
 # Lista das notas
 notas = []

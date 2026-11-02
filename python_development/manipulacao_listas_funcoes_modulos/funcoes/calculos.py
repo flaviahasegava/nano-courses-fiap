@@ -1,5 +1,4 @@
 # FUNÇÕES BÁSICAS DE MATEMÁTICA
-
 # FUNÇÃO DE SOMA
 def somar(a, b):
   return float(a) + float(b)
