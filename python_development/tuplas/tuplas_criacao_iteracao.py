@@ -1,4 +1,4 @@
-# TUPLAS CRIAÇÃO
+# TUPLAS (CRIAÇÃO E ITERAÇÃO)
 # Uma tupla nunca é criada vazia, é inserida com dados
 categorias = ("Youngling", "Padawan", "Jedi", "Mestre")
 

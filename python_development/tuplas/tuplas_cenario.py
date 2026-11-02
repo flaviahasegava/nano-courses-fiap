@@ -1,4 +1,4 @@
-# TUPLAS CENÁRIO
+# TUPLAS (CENÁRIO)
 # Uma lista e dentro com tuplas (coordernadas (x e y))
 inimigos = [(10, 5), (30, 3), (1, 50)] # É possível remover os elementos de dentro da lista, cada coordenada são os inimigos (tupla)
 
