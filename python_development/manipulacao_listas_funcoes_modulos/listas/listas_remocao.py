@@ -1,4 +1,4 @@
-# LISTAS REMOÇÃO
+# LISTAS (REMOÇÃO)
 jedi = ["Yoda", "Luke", "Obi-Wan", "Anakin"]
 
 # REMOÇÃO DO ÚLTIMO VALOR (POP)

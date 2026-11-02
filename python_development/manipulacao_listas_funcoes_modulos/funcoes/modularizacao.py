@@ -1,4 +1,4 @@
-# FUNÇÃO (MODULARIZAÇÃO)
+# FUNÇÕES (MODULARIZAÇÃO)
 # Chamar funções de outro arquivo
 
 # "import" -> buscar recursos que não estão dentro desse arquivo que está aberto

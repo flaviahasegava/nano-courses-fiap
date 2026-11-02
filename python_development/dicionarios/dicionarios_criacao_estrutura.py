@@ -1,4 +1,4 @@
-# DICIONÁRIO (CRIAÇÃO E ESTRUTURA)
+# DICIONÁRIOS (CRIAÇÃO E ESTRUTURA)
 # Para criar um dicionário é utilizado colchetes "{}" e dentro dele a chave, dois pontos : e o valor, cada um separado por vírgula
 dicionario = {
   # As chaves estão entre "", pois são strings

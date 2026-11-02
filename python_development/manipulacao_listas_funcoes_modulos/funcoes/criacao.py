@@ -1,4 +1,4 @@
-# FUNÇÕES CRIAÇÃO
+# FUNÇÕES (CRIAÇÃO)
 # "def" -> Indica a criação de uma função
 # Após o "def" é o "nome da função"
 def velocidade_media():
